@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+  FOR DEMO 
+  https://next-authe-n1zsgp14i-ashishimg27.vercel.app/
+  
+
 First, run the development server:
 
 ```bash
